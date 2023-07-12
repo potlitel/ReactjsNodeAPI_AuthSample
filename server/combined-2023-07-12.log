@@ -1,0 +1,2 @@
+[2023-07-12 11:21:22.664 AM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:15:21:22 +0000] "GET /favicon.ico HTTP/1.1" 404 1594 "http://localhost:4001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
