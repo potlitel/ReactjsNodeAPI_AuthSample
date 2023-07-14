@@ -1,2 +1,228 @@
 [2023-07-12 11:21:22.664 AM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:15:21:22 +0000] "GET /favicon.ico HTTP/1.1" 404 1594 "http://localhost:4001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
 [32m[39m
+[2023-07-12 01:54:04.502 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:17:54:04 +0000] "GET /favicon.ico HTTP/1.1" 404 1594 "http://localhost:4001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:16:00.204 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:16:00 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:43.583 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:43 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:44.187 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:44 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:45.013 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:45 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:45.765 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:45 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:45.940 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:45 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:46.133 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:46 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:46.319 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:46 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:47.196 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:47.396 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:47.564 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:47.748 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:20:47.918 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:20:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:40.088 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:40.671 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:41.255 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:41.444 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:41.640 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:41.839 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:42.020 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:42 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:42.212 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:42 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:42.406 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:42 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:22:42.606 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:22:42 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:03.223 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:03 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:05.269 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:05 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:05.838 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:05 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:06.388 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:06 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:06.564 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:06 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:06.747 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:06 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:06.931 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:06 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:07.091 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:07 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:07.269 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:07 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:07.445 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:07 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:07.627 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:07 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:23:07.811 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:23:07 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:26:15.564 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:26:15 +0000] "GET /api HTTP/1.1" 404 1578 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:30:05.622 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:30:05 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:30:11.188 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:30:11 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:30:13.468 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:30:13 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:27.793 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:27 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:28.362 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:28 +0000] "GET /users/register HTTP/1.1" 404 1600 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:30.704 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:30 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:33.159 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:33 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:38.085 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:38 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:38.595 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:38 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:39.011 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:39.205 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:39.388 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:39.570 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:39.747 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:39.939 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:40.116 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:40.308 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:40.931 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:41.132 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:41.332 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:41.532 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:41.723 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:41.924 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:42.116 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:42 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:32:42.307 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:32:42 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:33:39.714 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:33:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:33:42.373 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:33:42 +0000] "GET /ping/ HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:33:44.747 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:33:44 +0000] "GET /ping/ HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:56:28.120 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:56:28 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:57:10.281 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:57:10 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:57:11.267 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:57:11 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:58:55.926 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:58:55 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:58:59.461 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:58:59 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 02:59:29.031 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:18:59:29 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:01:39.092 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:01:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:01:39.907 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:01:39 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:01:40.333 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:01:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:01:40.548 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:01:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:01:40.764 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:01:40 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:01:41.404 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:01:41 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:46.160 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:46 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:47.242 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:47.466 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:47.978 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:47 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:48.187 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:48 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:48.378 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:48 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:48.562 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:48 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:48.762 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:48 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:48.957 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:48 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:49.140 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:49 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:49.330 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:49 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:49.524 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:49 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:49.724 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:49 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:51.140 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:51 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:51.346 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:51 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:04:51.514 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:04:51 +0000] "GET /users/ HTTP/1.1" 404 1584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:07.715 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:07 +0000] "GET /ping/users HTTP/1.1" 404 1592 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:13.439 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:13 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:15.475 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:15 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:15.900 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:15 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:16.091 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:16 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:16.275 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:16 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:16.450 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:16 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:16.876 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:16 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:09:17.075 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:09:17 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:10:45.828 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:10:45 +0000] "GET /api HTTP/1.1" 404 1578 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:13:37.034 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:13:37 +0000] "GET /api/ HTTP/1.1" 404 1580 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:21:04.950 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:21:04 +0000] "GET /api/ HTTP/1.1" 404 1580 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:21:15.799 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:21:15 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:21:16.122 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:21:16 +0000] "GET /users HTTP/1.1" 404 1582 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:23:25.782 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:23:25 +0000] "GET /api/ HTTP/1.1" 404 1580 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 03:23:32.727 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:19:23:32 +0000] "GET /api/welcome HTTP/1.1" 404 1594 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"[39m
+[32m[39m
+[2023-07-12 06:37:34.810 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:22:37:34 +0000] "POST /api/v1/users/ HTTP/1.1" 404 1598 "-" "PostmanRuntime/7.29.0"[39m
+[32m[39m
+[2023-07-12 06:37:40.192 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:22:37:40 +0000] "POST /api/v1/users HTTP/1.1" 404 1596 "-" "PostmanRuntime/7.29.0"[39m
+[32m[39m
+[2023-07-12 06:38:05.821 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:22:38:05 +0000] "POST /api/v1/users/ HTTP/1.1" 404 1598 "-" "PostmanRuntime/7.29.0"[39m
+[32m[39m
+[2023-07-12 06:38:11.185 PM] [32minfo[39m: 	[32m::1 - - [12/Jul/2023:22:38:11 +0000] "POST /api/v1/users/ HTTP/1.1" 404 1598 "-" "PostmanRuntime/7.29.0"[39m
+[32m[39m
